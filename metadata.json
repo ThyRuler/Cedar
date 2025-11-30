@@ -1,0 +1,5 @@
+{
+  "name": "Cedar",
+  "description": "A specialized financial assistant to help users in Lebanon manage budgets and track transactions, using a fixed exchange rate.",
+  "requestFramePermissions": []
+}
